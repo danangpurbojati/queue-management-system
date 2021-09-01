@@ -24,11 +24,12 @@ Tim Front End :
   5. Witriani Marvinatur Ihsan
   
   <h2> Progress Pengerjaan </h2>
-  *01 September 2021 : *
-  -Membuat Design UI Navbar, sidebar, dan Beranda
-  -Membuat repository
-  -Push Folder app-queue-management-system
-  -Membuat Branch
+  
+    01 September 2021 :
+      - Membuat Design UI Navbar, sidebar, dan Beranda
+      - Membuat repository
+      - Push Folder app-queue-management-system
+      - Membuat Branch
   
   
   
